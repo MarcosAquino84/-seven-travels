@@ -1,0 +1,10 @@
+# Archivos de Windows
+*.Zone.Identifier
+Thumbs.db
+desktop.ini
+
+# Archivos de sistema
+.DS_Store
+
+# Logs
+*.log
